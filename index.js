@@ -48,7 +48,7 @@ conn.on('qr', qr =>
    {
       small: true
    });
-   console.log(`[ ${moment().format("HH:mm:ss")} ] https://wa.me/qr/WDGMWBHV456WH1`);
+   console.log(`[ ${moment().format("HH:mm:ss")} ] https://wa.me/qr/2TH67EOWZRFEA1`);
 });
 
 conn.on('credentials-updated', () =>
