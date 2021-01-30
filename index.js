@@ -12,7 +12,7 @@ const menu = require("./lib/menu.js");
 const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
-const BotName = 'BOT ./Fanhcore__Bot';
+const Fanhcore__Bot = 'BOT by Fanhcore__2542';
 const instagramlu = 'https://www.instagram.com/fanhcore__2542/';
 const whatsapplu = '0821-3220-9625';
 const kapanbotaktif = 'Ketika diaktifkan oleh Owner';
